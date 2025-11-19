@@ -1,2 +1,2 @@
 # lux
-Test repository
+Test repository to get familiar with version control
