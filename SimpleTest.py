@@ -1,7 +1,7 @@
 import tkinter as tk
 root = tk.Tk()
-root.title("Tk Example")
-root.configure(background="green")
+root.title("This is a new title from branch3")
+root.configure(background="darkgreen")
 root.minsize(200, 200)
 root.maxsize(500, 500)
 root.geometry("300x300+50+50")
